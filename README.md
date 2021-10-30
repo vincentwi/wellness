@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quantified Self (QS) Ledger
 
 ## A Personal Data Aggregator and Dashboard for Self-Trackers and Quantified Self Enthusiasts
@@ -103,3 +104,7 @@ With [Papermill](https://github.com/nteract/papermill):
 ## Questions? Bugs? Feature Requests? Need Support?
 
 Post a ticket in the [QS Ledger Issue Queue](https://github.com/markwk/qs_ledger/issues) 
+=======
+# wellness
+health and well being
+>>>>>>> 6f2bdfe1f38618c1d6f1d3bdd880165944ce414b
